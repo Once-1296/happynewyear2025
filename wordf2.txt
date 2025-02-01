@@ -1,0 +1,8 @@
+crown
+diamond
+fire
+pheart
+rheart
+ribbon
+ring
+star
